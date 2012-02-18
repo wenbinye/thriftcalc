@@ -1,0 +1,5 @@
+gen-*
+server/Calculator_*
+server/calculator_*
+server/Calculator.cpp
+server/Calculator.h
